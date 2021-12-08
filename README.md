@@ -5,6 +5,5 @@
 ---
 **NOTE**
 
-It works with almost all markdown flavours (the below blank line matters).
-
+This project is now integrated and maintained in [Libft](https://github.com/1mthe0wl/libft) library, no more updates will come here!
 ---
